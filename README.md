@@ -1,4 +1,4 @@
-# 🧰 JayapriyaCodSoft – Personal Coding Projects
+# Personal Coding Projects
 
 This repository showcases a collection of hands-on projects completed during my learning journey with **CodSoft**. It includes both frontend and backend mini-projects focused on real-world problem-solving and skill development.
 
